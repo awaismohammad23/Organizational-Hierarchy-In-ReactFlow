@@ -10,12 +10,12 @@ The following structure starts with the Director who will have the most authorit
                                    |
                               Deputy Director
                          __________|__________ 
-                        |                    |
-                    Coordinators        Coordinators 
-                        |                    |
-                    Team Leads          Team Leads
-                        |                    |
-                    Members             Members
+                        |                     |
+                    Coordinators         Coordinators 
+                        |                     |
+                    Team Leads           Team Leads
+                        |                     |
+                    Members              Members
 
 # Tools and Technologies used
 
