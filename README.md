@@ -6,16 +6,16 @@ This repository will provide a hierarchy of employees of an organization. Since 
 
 The following structure starts with the Director who will have the most authority over everyone, then there is a deputy director. Then some coordinators will work under the director and deputy director. After that, there are team leads who will be leading small groups of members who will work under the team leads. 
 
-      Director
-         |
-    Deputy Director
-    _____|______  
-               |
-           Coordinators 
-               |
-          Team Leads
-               |
-            Members
+                              Director
+                                   |
+                              Deputy Director
+                         __________|__________ 
+                        |                    |
+                    Coordinators        Coordinators 
+                        |                    |
+                    Team Leads          Team Leads
+                        |                    |
+                    Members             Members
 
 # Tools and Technologies used
 
